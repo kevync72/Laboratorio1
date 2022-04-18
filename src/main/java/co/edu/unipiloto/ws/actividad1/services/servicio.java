@@ -32,7 +32,7 @@ public class servicio {
             persona people = new persona();
             int id = i+1;
             people.setId(id); 
-            people.setNombre("Maravillosa persona " + id);            
+            people.setNombre(" persona " + id);            
             people.setEdad((int)(Math.random() * 60 + 1));
             people.setSalario(people.getEdad()*1000000/3);
             personas.put(id, people);
