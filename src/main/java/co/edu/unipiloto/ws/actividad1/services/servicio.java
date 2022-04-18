@@ -20,7 +20,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 /**
  *
- * @author cristian-patino
+ * @author kevyn-chaves
  */
 
 @Path("service")
